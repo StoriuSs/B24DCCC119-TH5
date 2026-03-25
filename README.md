@@ -3,11 +3,11 @@
 ## B24DCCC119: Phạm Trung Hiếu (Nhóm trưởng)
 - Làm các services, models và routes, mock apis cho các bạn làm frontend pages
 ## B24DCCC137: Phạm Tuấn Hùng
-- Làm pages SoVanBang
+- Làm pages DanhSachCLB
 ## B24DCCC059: Phan Lê Tiến Đạt 
-- Làm pages CauHinh và QuyetDinh
+- Làm pages DonDangKy
 ## B24DCCC227: Hoàng Đại Phúc
-- Làm pages ThongTin và TraCuu
+- Làm pages ThanhVien
 ## B24DCCC101: Phan Anh Hải
 - Làm pages ThongKe
 
